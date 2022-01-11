@@ -1,0 +1,12 @@
+﻿  CustomExpressionEvaluator.cpp
+C:\Users\Black Arm Tattoo\source\repos\Lab3.1\Lab3.1\CustomExpressionEvaluator.cpp(11,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Black Arm Tattoo\source\repos\Lab3.1\Lab3.1\CustomExpressionEvaluator.cpp(28,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Black Arm Tattoo\source\repos\Lab3.1\Lab3.1\CustomExpressionEvaluator.cpp(67,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ExpressionEvaluator.cpp
+  ILoggable.cpp
+  IShuffle.cpp
+  Lab3.1.cpp
+  Subtractor.cpp
+  Summator.cpp
+  Создание кода...
+  Lab3.1.vcxproj -> C:\Users\Black Arm Tattoo\source\repos\Lab3.1\x64\Debug\Lab3.1.exe

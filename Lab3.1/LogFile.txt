@@ -1,0 +1,30 @@
+[Summator]
+[ -7- operands ]
+15 plus (-3.5)  plus 10.5 plus (-2.1)  plus 3.3 plus 4 plus 6.3
+[ -RESULT- 33.5 ]
+
+[Subtractor]
+[ -3- operands ]
+1.5 minus 4 minus (-2.5) 
+[ -RESULT- 0 ]
+
+[CustomExpressionEvaluator]
+[ -5- operands ]
+15 div 10 plus (-3) plus 12 plus (-6.5)
+[ -RESULT- 4 ]
+
+[Summator]
+[ -7- operands ]
+15 plus (-3.5)  plus 10.5 plus (-2.1)  plus 3.3 plus 4 plus 6.3
+[ -RESULT- 33.5 ]
+
+[Subtractor]
+[ -3- operands ]
+1.5 minus 4 minus (-2.5) 
+[ -RESULT- 0 ]
+
+[CustomExpressionEvaluator]
+[ -5- operands ]
+15 div 10 plus (-3) plus 12 plus (-6.5)
+[ -RESULT- 4 ]
+
